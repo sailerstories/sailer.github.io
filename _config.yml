@@ -15,8 +15,8 @@ title: Sailer Notes
 # Your name to show in the footer
 author: Some Person
 
-# url: "https://your-sailerstories.github.io"
-baseurl: "" # For user/organization site, leave it as an empty string. For project site, set to "/repository-name mo"
+# url: "https://sailer.github.io"
+baseurl: "https://sailer.github.io" # For user/organization site, leave it as an empty string. For project site, set to "/sailer.github.io"
 
 ###############################################
 # --- List of links in the navigation bar --- #
