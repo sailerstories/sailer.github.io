@@ -16,7 +16,7 @@ title: Sailer Notes
 author: Some Person
 
 # url: "https://sailer.github.io"
-baseurl: "https://sailer.github.io" # For user/organization site, leave it as an empty string. For project site, set to "/sailer.github.io"
+baseurl: /sailer.github.io # For user/organization site, leave it as an empty string. For project site, set to "/sailer.github.io"
 
 ###############################################
 # --- List of links in the navigation bar --- #
